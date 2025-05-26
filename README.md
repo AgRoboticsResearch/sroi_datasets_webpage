@@ -11,7 +11,7 @@ This project presents a comprehensive dataset and framework for robotic strawber
 
 ## Website
 
-The project website is hosted at [https://forgetwhatuwant.github.io/sroi_datasets](https://forgetwhatuwant.github.io/sroi_datasets)
+The project website is hosted at [https://agroboticsresearch.github.io/sroi_datasets_webpage/](https://agroboticsresearch.github.io/sroi_datasets_webpage/)
 
 ## Repository Structure
 
